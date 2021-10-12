@@ -2,7 +2,7 @@
 
 > **Author: [StevenChaoo](https://github.com/StevenChaoo)**
 
-![vscode](https://img.shields.io/badge/visual_studio_code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff) ![neovim](https://img.shields.io/badge/Neovim-57a143?style=flat&logo=Neovim&logoColor=ffffff) ![git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=ffffff) ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=StevenChaoo.Paper-Reading&left_color=grey&right_color=blue) ![python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=ffffff)
+![vscode](https://img.shields.io/badge/visual_studio_code-007acc?style=flat&logo=visual-studio-code&logoColor=ffffff) ![neovim](https://img.shields.io/badge/Neovim-57a143?style=flat&logo=Neovim&logoColor=ffffff) ![git](https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=ffffff) ![python](https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=ffffff) ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=StevenChaoo.Paper-Reading&left_color=grey&right_color=blue)
 
 This blog is written by **Neovim** and **Visual Studio Code**. You may need to clone this repository to your local and use **Visual Studio Code** to read. ***Markdown Preview Enhanced*** plugin is necessary as well. Codes are all writen with **Python**.
 
