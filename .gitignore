@@ -1,3 +1,14 @@
 model/
-data/
 eval/
+
+DDI_Data_Create/DDIbrat/
+DDI_Data_Create/DDIdata/
+DDI_Data_Create/result.txt
+
+data/dev.tsv
+data/test.tsv
+data/train.tsv
+data/enh_train.tsv
+data/cached_dev_semeval_biobert-base-cased-v1.1_400
+data/cached_test_semeval_biobert-base-cased-v1.1_400
+data/cached_train_semeval_biobert-base-cased-v1.1_400
